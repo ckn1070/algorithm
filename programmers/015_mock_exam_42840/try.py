@@ -2,6 +2,7 @@ import collections
 from collections import defaultdict
 
 
+# Solved
 def solution(answers):
     first = [1, 2, 3, 4, 5]
     second = [2, 1, 2, 3, 2, 4, 2, 5]
