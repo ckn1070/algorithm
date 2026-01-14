@@ -1,3 +1,4 @@
+# Half Solved
 def solution(n, computers):
 
     def rec(ith, route):
