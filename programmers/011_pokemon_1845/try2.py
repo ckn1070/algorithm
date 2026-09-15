@@ -1,3 +1,5 @@
+# Solved
+# 굉장히 깔끔하게 잘 푼듯?
 def solution(nums):
     answer = min(len(set(nums)), len(nums)/2)
     print('answer', answer)
